@@ -46,6 +46,3 @@ Once the app is running on your device or simulator:
   - `ChoiceTextView`: custom view for displaying the possible answers text
   - `BottomTextView`: custom view for displaying bottom text buttons
   - `GameColor`: defines the colors used throughout the app
-
-
-Thank you for using Culture Quiz! Enjoy playing!
